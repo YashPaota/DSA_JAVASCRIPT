@@ -10,7 +10,7 @@ const isPalindrome1 = function(x)
 }
 const out = isPalindrome1(121);
 console.log(out);
-
+git 
 
 
 //Solution 2 :- with help of loops
